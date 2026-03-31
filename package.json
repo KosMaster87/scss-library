@@ -1,0 +1,30 @@
+{
+  "name": "@dev2k/scss-library",
+  "version": "1.1.0",
+  "description": "Reusable SCSS framework with CSS Custom Properties and modern mixins",
+  "main": "_index.scss",
+  "keywords": [
+    "scss",
+    "css",
+    "framework",
+    "library",
+    "mixins",
+    "css-custom-properties"
+  ],
+  "author": "dev2k",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev2k/scss-library"
+  },
+  "files": [
+    "_index.scss",
+    "abstracts/",
+    "base/",
+    "utils/",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "sass": "^1.50.0"
+  }
+}
